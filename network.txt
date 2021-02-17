@@ -1,0 +1,34 @@
+GIT:
+ - commit 
+ - branches
+ - pull requests
+ - merge, merge conflicts
+ - Bitbucket
+
+Windows:
+ - Types of Windows Server
+ - Domain
+ - Active Directory
+ - DNS server
+ - DHCP server
+ - Windows services
+ - Scheduled Tasks
+ - Event viewer
+
+Network:
+ - Network Types
+ - Public & Private subnets
+ - TCP & UDP
+ - Model OSI
+
+Powershell:
+ - Create simple sctipts
+ - Functions
+ - Executing commands on other servers (Ivoke-Commands & Enter PSSession)
+ - Rest API requests
+ - Work with JSON files
+
+Jenkins:
+ - Jenkins setup
+ - Jenkins Pipeline
+ - CI job for docker
